@@ -1,13 +1,8 @@
-# react_to_do
-A to do list web-app built with React, Javascript, HTML, CSS
+# React + Vite
 
-# Current Status
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This project is currently under development and updates will be posted as progress continues
+Currently, two official plugins are available:
 
-
-
-# Recognition and Resources
-* https://react.dev/learn
-* https://react.dev/reference/react
-* https://www.youtube.com/watch?v=Rh3tobg7hEo&ab_channel=WebDevSimplified
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
